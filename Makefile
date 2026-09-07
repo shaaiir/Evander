@@ -9,7 +9,8 @@ SOURCES = \
 	src/system.c \
 	src/cpu.c \
 	src/memory.c \
-	src/storage.c
+	src/storage.c \
+	src/process.c
 
 all:
 	mkdir -p build
